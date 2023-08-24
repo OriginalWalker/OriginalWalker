@@ -44,6 +44,6 @@
 <hr>
 
   <h3 align="center"> 
-         Original W .
+        Sign, Original W .
  </h3> 
  
