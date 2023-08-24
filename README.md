@@ -11,14 +11,18 @@
 <a href="https://discord.gg/xxxvideos" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1142065161570619445/1144278629447127181/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png?size=20" alt="xxxvideos" height="30" width="40" /></a>
 <a href="https.t.me/OriginallyWalker" target="blanck"><img align="center" src="https://cdn.discordapp.com/attachments/1142065161570619445/1144282036786446507/800px-Telegram_2019_Logo.svg_1.png" alt="OriginallyWalker" height="30" width="40" /></a>
 </p>
+
+<h4 align="center">
+          Stats
+</h4>
 <p align="center"> 
    <img alt="Followers" src="https://img.shields.io/github/followers/OriginalWalker?style=social"> 
    <img alt="Total Stars" src="https://img.shields.io/github/stars/OriginalWalker?style=social"> 
    <img src="https://komarev.com/ghpvc/?username=OriginalWalker"> 
  </p>
-<a>
-<center><img src="https://api.visitorbadge.io/api/visitors?path=OriginalWalker&label=Visitors&countColor=%23263759&style=flat-square&labelStyle=upper" /></center>
-</a>
+<p align="center">
+        <img src="https://api.visitorbadge.io/api/visitors?path=OriginalWalker&label=Visitors&countColor=%23263759&style=flat-square&labelStyle=upper" />
+</p>
 
  <hr> 
   
