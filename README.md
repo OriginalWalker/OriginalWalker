@@ -23,7 +23,7 @@
  <hr> 
   
  <p align="center"> 
-         <img width="750em" src="https://github-readme-stats.vercel.app/api?username=OriginalWalker&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" /> 
+         <img width="750em" src="https://github-readme-stats.vercel.app/api?username=OriginalWalker&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117" /> 
  </p> 
   
  <p align="center"> 
