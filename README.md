@@ -7,14 +7,13 @@
  </h3> 
  <h4 align="center">Connect with me:</h4>
 <p align="center">
-<a href="https://twitter.com/iwalk3r" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1142065161570619445/1144282466568372384/1690643777twitter-x_logo-png-white.png" alt="iWalk3r" height="30" width="40" /></a>
-<a href="https://discord.gg/xxxvideos" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1142065161570619445/1144278629447127181/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png?size=20" alt="xxxvideos" height="30" width="40" /></a>
-<a href="https.t.me/OriginallyWalker" target="blanck"><img align="center" src="https://cdn.discordapp.com/attachments/1142065161570619445/1144282036786446507/800px-Telegram_2019_Logo.svg_1.png" alt="OriginallyWalker" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/iwalk3r" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="iWalk3r"/></a>
+<a href="https://discord.com/channels/@me/949029136435916862" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="949029136435916862" /></a>
+<hr>
 
-<h4 align="center">
+<h1 align="center">
           Stats
-</h4>
+</h1>
 <p align="center"> 
    <img alt="Followers" src="https://img.shields.io/github/followers/OriginalWalker?style=social"> 
    <img alt="Total Stars" src="https://img.shields.io/github/stars/OriginalWalker?style=social"> 
@@ -23,8 +22,6 @@
 <p align="center">
         <img src="https://api.visitorbadge.io/api/visitors?path=OriginalWalker&label=Visitors&countColor=%23263759&style=flat-square&labelStyle=upper" />
 </p>
-
- <hr> 
   
  <p align="center"> 
          <img width="750em" src="https://github-readme-stats.vercel.app/api?username=OriginalWalker&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117" /> 
