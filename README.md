@@ -9,6 +9,7 @@
 <p align="center">
 <a href="https://twitter.com/iwalk3r" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="iWalk3r"/></a>
 <a href="https://discord.com/channels/@me/949029136435916862" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="949029136435916862" /></a>
+<a href="https://t.me/OriginallyWalker" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="OriginallyWalker" ></a>
 <hr>
 
 <h1 align="center">
