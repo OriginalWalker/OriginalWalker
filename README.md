@@ -30,6 +30,10 @@
   
  <p align="center"> 
          <img width="750em" src="https://github-readme-streak-stats.herokuapp.com/?user=OriginalWalker&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/> 
+
+<a href="https://github.com/OriginalWalker/"> 
+   <img width="750em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OriginalWalker&layout=compact&itle_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117" /> 
+ </a>
  </p> 
 
 <p align="center">
